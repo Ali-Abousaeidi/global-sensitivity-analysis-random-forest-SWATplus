@@ -36,7 +36,3 @@ Key features of the study:
    ```bash
    git clone https://github.com/Ali-Abousaeidi/global-sensitivity-analysis-random-forest-SWATplus.git
 
----
-
-## License
-The source code in this folder is licensed under the MIT License. See `LICENSE` file for more details.
